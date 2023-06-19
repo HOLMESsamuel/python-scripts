@@ -1,3 +1,5 @@
+## Basic script to make http request with headers or params and display the response as an indented json
+
 import requests
 import json
 
